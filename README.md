@@ -9,7 +9,7 @@ This project uses core Python to summarise 14 days of sales, classify days as St
 flag items that need reordering, and recommend actions.
 
 ## How to run
-[Open in Colab](https://colab.research.google.com/github/Alice34mung3ai/-plp-da-a1-gikomba-stall-analysis/blob/main/wanjiku_stall_analysis.ipynb)
+[Open in Colab](https://colab.research.google.com/github/Alice34mung3ai/-plp-da-a1-gikomba-stall-analysis/blob/main/stall_analysis.ipynb)
 
 Click the link and choose **Runtime → Run all**. No installs needed.
 
